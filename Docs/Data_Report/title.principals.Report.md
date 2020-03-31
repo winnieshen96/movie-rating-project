@@ -4,7 +4,7 @@ This file will be generated for each data file received or processed. The Intera
 IDEAR allows you to output the data summary, statistics, and charts that you want to use to tell the data story into the report. You only need to click a few buttons, and the report will be generated for you. 
 
 ## General summary of the data
-The crew members of different movies.
+The whole crew members of different movies, including actors, directors, cinematographers, etc.
 ## Data quality summary
 The overall data quality is good.
 The completeness and timeliness are good. 
