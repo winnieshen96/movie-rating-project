@@ -9,7 +9,7 @@ Title, type, genres, start year, runtimeMinutes of different movies.
 The overall data quality is good.
 The uniqueness, completeness and timeliness are good. 
 Precision is average, with startYear, endYear, runTimeMinutes all in string format, should be converted into int.
-Genres are strings in which different genres form a list, should be split in processing.
+Genres are strings in which different genres separated by comma, should be split in processing.
 ## Target variable
 None.
 ## Individual variables
