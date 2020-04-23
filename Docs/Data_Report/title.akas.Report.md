@@ -10,11 +10,20 @@ The overall data quality is good.
 The uniqueness and completeness are good.
 Consistency of one feature, "isOriginalTitle" is not good, with string and numerical present instead of just numerical.
 ## Target variable
+<<<<<<< HEAD
 
 ## Individual variables
 
 ## Variable ranking
 
+=======
+None.
+## Individual variables
+Primary key: titleId
+there are many titles here, we only want the title in English.
+## Variable ranking
+The only usable data here is titleId and title.
+>>>>>>> d0c5e9034dcbc4a4f44115db6d8bfb4f8103312c
 ## Relationship between explanatory variables and target variable
 
 
