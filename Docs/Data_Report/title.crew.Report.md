@@ -4,19 +4,6 @@ This file will be generated for each data file received or processed. The Intera
 IDEAR allows you to output the data summary, statistics, and charts that you want to use to tell the data story into the report. You only need to click a few buttons, and the report will be generated for you. 
 
 ## General summary of the data
-<<<<<<< HEAD
-The crew members of different movies.
-## Data quality summary
-The overall data quality is good.
-The completeness and timeliness are good. 
-The uniqueness of category is good, 12 in total, while job and characters are messy data which needs to be dissected further.
-## Target variable
-None.
-## Individual variables
-primary key: tconst, ordering
-foreign key: tconst, nconst
-variables: category, job, characters
-=======
 The directors and writers of movies.
 ## Data quality summary
 The overall data quality is good.
@@ -27,7 +14,6 @@ None.
 ## Individual variables
 primary key: tconst
 foreign key: directors
->>>>>>> d0c5e9034dcbc4a4f44115db6d8bfb4f8103312c
 
 ## Variable ranking
 category is the most important feature.
